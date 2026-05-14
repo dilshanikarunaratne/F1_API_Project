@@ -7,7 +7,7 @@ def get_race_results(season=2024):
 
     response = requests.get(url)
     response.raise_for_status()
-
+    
     data = response.json()
 
     races = data["MRData"]["RaceTable"]["Races"]

@@ -5,6 +5,7 @@ import plotly.express as px
 import sys
 import sqlite3
 
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC_DIR = os.path.join(BASE_DIR, "src")
 
@@ -24,6 +25,10 @@ def load_from_sqlserver(season):
     df = pd.read_sql(query, engine)
 
     return df
+
+from streamlit_autorefresh import st_autorefresh
+
+st_autorefresh(interval=60000, key="data_refresh")
 
 st.title("F1 Race Results Dashboard")
 
