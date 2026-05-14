@@ -12,18 +12,16 @@ sys.path.append(SRC_DIR)
 
 from extract import get_race_results
 from transform import clean_race_results
-from load import save_to_sqlite
+from load_sqlserver import save_to_sqlserver, get_sqlserver_engine
 
-def load_from_sqlite(season):
-    db_path = "C:/Users/Dilshani/Documents/F1_API_Project/data/f1_database.db"
+def load_from_sqlserver(season):
+    engine = get_sqlserver_engine()
+
     table_name = f"f1_results_{season}"
 
-    conn = sqlite3.connect(db_path)
-
     query = f"SELECT * FROM {table_name}"
-    df = pd.read_sql_query(query, conn)
 
-    conn.close()
+    df = pd.read_sql(query, engine)
 
     return df
 
@@ -46,11 +44,12 @@ if st.button("Load Season Data"):
     df_raw.to_csv(raw_path, index=False)
     df_cleaned.to_csv(processed_path, index=False)
 
-    save_to_sqlite(df_cleaned, season)
+    save_to_sqlserver(df_cleaned, season)
 
-    df_clean = load_from_sqlite(season)
+    df_clean = load_from_sqlserver(season)
+    
 
-    st.success(f"{season} data loaded and saved successfully.")
+    st.success(f"{season} data loaded, saved to SQL Server, and loaded into dashboard.")
 
     st.dataframe(df_clean)
 
