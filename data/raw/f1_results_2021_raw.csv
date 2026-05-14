@@ -1,0 +1,101 @@
+season,round,race_name,circuit,date,position,driver_code,driver_name,constructor,grid,laps,status,points
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,1,HAM,Lewis Hamilton,Mercedes,2,56,Finished,25
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,2,VER,Max Verstappen,Red Bull,1,56,Finished,18
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,3,BOT,Valtteri Bottas,Mercedes,3,56,Finished,16
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,4,NOR,Lando Norris,McLaren,7,56,Finished,12
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,5,PER,Sergio Pérez,Red Bull,0,56,Finished,10
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,6,LEC,Charles Leclerc,Ferrari,4,56,Finished,8
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,7,RIC,Daniel Ricciardo,McLaren,6,56,Finished,6
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,8,SAI,Carlos Sainz,Ferrari,8,56,Finished,4
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,9,TSU,Yuki Tsunoda,AlphaTauri,13,56,Finished,2
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,10,STR,Lance Stroll,Aston Martin,10,56,Finished,1
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,11,RAI,Kimi Räikkönen,Alfa Romeo,14,56,Finished,0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,12,GIO,Antonio Giovinazzi,Alfa Romeo,12,55,+1 Lap,0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,13,OCO,Esteban Ocon,Alpine F1 Team,16,55,+1 Lap,0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,14,RUS,George Russell,Williams,15,55,+1 Lap,0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,15,VET,Sebastian Vettel,Aston Martin,20,55,+1 Lap,0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,16,MSC,Mick Schumacher,Haas F1 Team,18,55,+1 Lap,0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,17,GAS,Pierre Gasly,AlphaTauri,5,52,Retired,0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,18,LAT,Nicholas Latifi,Williams,17,51,Retired,0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,19,ALO,Fernando Alonso,Alpine F1 Team,9,32,Brakes,0
+2021,1,Bahrain Grand Prix,Bahrain International Circuit,2021-03-28,20,MAZ,Nikita Mazepin,Haas F1 Team,19,0,Accident,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,1,VER,Max Verstappen,Red Bull,3,63,Finished,25
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,2,HAM,Lewis Hamilton,Mercedes,1,63,Finished,19
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,3,NOR,Lando Norris,McLaren,7,63,Finished,15
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,4,LEC,Charles Leclerc,Ferrari,4,63,Finished,12
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,5,SAI,Carlos Sainz,Ferrari,11,63,Finished,10
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,6,RIC,Daniel Ricciardo,McLaren,6,63,Finished,8
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,7,GAS,Pierre Gasly,AlphaTauri,5,63,Finished,6
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,8,STR,Lance Stroll,Aston Martin,10,63,Finished,4
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,9,OCO,Esteban Ocon,Alpine F1 Team,9,63,Finished,2
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,10,ALO,Fernando Alonso,Alpine F1 Team,15,63,Finished,1
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,11,PER,Sergio Pérez,Red Bull,2,63,Finished,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,12,TSU,Yuki Tsunoda,AlphaTauri,20,63,Finished,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,13,RAI,Kimi Räikkönen,Alfa Romeo,16,63,Finished,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,14,GIO,Antonio Giovinazzi,Alfa Romeo,17,62,+1 Lap,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,15,VET,Sebastian Vettel,Aston Martin,0,61,Gearbox,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,16,MSC,Mick Schumacher,Haas F1 Team,18,61,+2 Laps,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,17,MAZ,Nikita Mazepin,Haas F1 Team,19,61,+2 Laps,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,18,BOT,Valtteri Bottas,Mercedes,8,30,Collision,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,19,RUS,George Russell,Williams,12,30,Collision,0
+2021,2,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,2021-04-18,20,LAT,Nicholas Latifi,Williams,14,0,Collision,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,1,HAM,Lewis Hamilton,Mercedes,2,66,Finished,25
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,2,VER,Max Verstappen,Red Bull,3,66,Finished,18
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,3,BOT,Valtteri Bottas,Mercedes,1,66,Finished,16
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,4,PER,Sergio Pérez,Red Bull,4,66,Finished,12
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,5,NOR,Lando Norris,McLaren,7,66,Finished,10
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,6,LEC,Charles Leclerc,Ferrari,8,66,Finished,8
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,7,OCO,Esteban Ocon,Alpine F1 Team,6,66,Finished,6
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,8,ALO,Fernando Alonso,Alpine F1 Team,13,66,Finished,4
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,9,RIC,Daniel Ricciardo,McLaren,16,66,Finished,2
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,10,GAS,Pierre Gasly,AlphaTauri,9,66,Finished,1
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,11,SAI,Carlos Sainz,Ferrari,5,66,Finished,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,12,GIO,Antonio Giovinazzi,Alfa Romeo,12,65,+1 Lap,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,13,VET,Sebastian Vettel,Aston Martin,10,65,+1 Lap,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,14,STR,Lance Stroll,Aston Martin,17,65,+1 Lap,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,15,TSU,Yuki Tsunoda,AlphaTauri,14,65,+1 Lap,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,16,RUS,George Russell,Williams,11,65,+1 Lap,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,17,MSC,Mick Schumacher,Haas F1 Team,19,64,+2 Laps,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,18,LAT,Nicholas Latifi,Williams,18,64,+2 Laps,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,19,MAZ,Nikita Mazepin,Haas F1 Team,20,64,+2 Laps,0
+2021,3,Portuguese Grand Prix,Autódromo Internacional do Algarve,2021-05-02,20,RAI,Kimi Räikkönen,Alfa Romeo,15,1,Collision damage,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,1,HAM,Lewis Hamilton,Mercedes,1,66,Finished,25
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,2,VER,Max Verstappen,Red Bull,2,66,Finished,19
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,3,BOT,Valtteri Bottas,Mercedes,3,66,Finished,15
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,4,LEC,Charles Leclerc,Ferrari,4,66,Finished,12
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,5,PER,Sergio Pérez,Red Bull,8,66,Finished,10
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,6,RIC,Daniel Ricciardo,McLaren,7,66,Finished,8
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,7,SAI,Carlos Sainz,Ferrari,6,66,Finished,6
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,8,NOR,Lando Norris,McLaren,9,65,+1 Lap,4
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,9,OCO,Esteban Ocon,Alpine F1 Team,5,65,+1 Lap,2
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,10,GAS,Pierre Gasly,AlphaTauri,12,65,+1 Lap,1
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,11,STR,Lance Stroll,Aston Martin,11,65,+1 Lap,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,12,RAI,Kimi Räikkönen,Alfa Romeo,17,65,+1 Lap,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,13,VET,Sebastian Vettel,Aston Martin,13,65,+1 Lap,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,14,RUS,George Russell,Williams,15,65,+1 Lap,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,15,GIO,Antonio Giovinazzi,Alfa Romeo,14,65,+1 Lap,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,16,LAT,Nicholas Latifi,Williams,19,65,+1 Lap,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,17,ALO,Fernando Alonso,Alpine F1 Team,10,65,+1 Lap,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,18,MSC,Mick Schumacher,Haas F1 Team,18,64,+2 Laps,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,19,MAZ,Nikita Mazepin,Haas F1 Team,20,64,+2 Laps,0
+2021,4,Spanish Grand Prix,Circuit de Barcelona-Catalunya,2021-05-09,20,TSU,Yuki Tsunoda,AlphaTauri,16,6,Electrical,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,1,VER,Max Verstappen,Red Bull,2,78,Finished,25
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,2,SAI,Carlos Sainz,Ferrari,4,78,Finished,18
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,3,NOR,Lando Norris,McLaren,5,78,Finished,15
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,4,PER,Sergio Pérez,Red Bull,9,78,Finished,12
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,5,VET,Sebastian Vettel,Aston Martin,8,78,Finished,10
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,6,GAS,Pierre Gasly,AlphaTauri,6,78,Finished,8
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,7,HAM,Lewis Hamilton,Mercedes,7,78,Finished,7
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,8,STR,Lance Stroll,Aston Martin,13,77,+1 Lap,4
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,9,OCO,Esteban Ocon,Alpine F1 Team,11,77,+1 Lap,2
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,10,GIO,Antonio Giovinazzi,Alfa Romeo,10,77,+1 Lap,1
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,11,RAI,Kimi Räikkönen,Alfa Romeo,14,77,+1 Lap,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,12,RIC,Daniel Ricciardo,McLaren,12,77,+1 Lap,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,13,ALO,Fernando Alonso,Alpine F1 Team,17,77,+1 Lap,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,14,RUS,George Russell,Williams,15,77,+1 Lap,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,15,LAT,Nicholas Latifi,Williams,18,77,+1 Lap,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,16,TSU,Yuki Tsunoda,AlphaTauri,16,77,+1 Lap,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,17,MAZ,Nikita Mazepin,Haas F1 Team,19,75,+3 Laps,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,18,MSC,Mick Schumacher,Haas F1 Team,20,75,+3 Laps,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,19,BOT,Valtteri Bottas,Mercedes,3,29,Wheel nut,0
+2021,5,Monaco Grand Prix,Circuit de Monaco,2021-05-23,20,LEC,Charles Leclerc,Ferrari,1,0,Driveshaft,0

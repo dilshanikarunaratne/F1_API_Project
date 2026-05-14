@@ -1,0 +1,101 @@
+season,round,race_name,circuit,date,position,driver_code,driver_name,constructor,grid,laps,status,points,positions_gained
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,1,VER,Max Verstappen,Red Bull,1,57,Finished,26.0,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,2,PER,Sergio Pérez,Red Bull,5,57,Finished,18.0,3
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,3,SAI,Carlos Sainz,Ferrari,4,57,Finished,15.0,1
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,4,LEC,Charles Leclerc,Ferrari,2,57,Finished,12.0,-2
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,5,RUS,George Russell,Mercedes,3,57,Finished,10.0,-2
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,6,NOR,Lando Norris,McLaren,7,57,Finished,8.0,1
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,7,HAM,Lewis Hamilton,Mercedes,9,57,Finished,6.0,2
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,8,PIA,Oscar Piastri,McLaren,8,57,Finished,4.0,0
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,9,ALO,Fernando Alonso,Aston Martin,6,57,Finished,2.0,-3
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,10,STR,Lance Stroll,Aston Martin,12,57,Finished,1.0,2
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,11,ZHO,Guanyu Zhou,Sauber,17,56,Lapped,0.0,6
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,12,MAG,Kevin Magnussen,Haas F1 Team,15,56,Lapped,0.0,3
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,13,RIC,Daniel Ricciardo,RB F1 Team,14,56,Lapped,0.0,1
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,14,TSU,Yuki Tsunoda,RB F1 Team,11,56,Lapped,0.0,-3
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,15,ALB,Alexander Albon,Williams,13,56,Lapped,0.0,-2
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,16,HUL,Nico Hülkenberg,Haas F1 Team,10,56,Lapped,0.0,-6
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,17,OCO,Esteban Ocon,Alpine F1 Team,19,56,Lapped,0.0,2
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,18,GAS,Pierre Gasly,Alpine F1 Team,20,56,Lapped,0.0,2
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,19,BOT,Valtteri Bottas,Sauber,16,56,Lapped,0.0,-3
+2024,1,Bahrain Grand Prix,Bahrain International Circuit,2024-03-02,20,SAR,Logan Sargeant,Williams,18,55,Lapped,0.0,-2
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,1,VER,Max Verstappen,Red Bull,1,50,Finished,25.0,0
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,2,PER,Sergio Pérez,Red Bull,3,50,Finished,18.0,1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,3,LEC,Charles Leclerc,Ferrari,2,50,Finished,16.0,-1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,4,PIA,Oscar Piastri,McLaren,5,50,Finished,12.0,1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,5,ALO,Fernando Alonso,Aston Martin,4,50,Finished,10.0,-1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,6,RUS,George Russell,Mercedes,7,50,Finished,8.0,1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,7,BEA,Oliver Bearman,Ferrari,11,50,Finished,6.0,4
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,8,NOR,Lando Norris,McLaren,6,50,Finished,4.0,-2
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,9,HAM,Lewis Hamilton,Mercedes,8,50,Finished,2.0,-1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,10,HUL,Nico Hülkenberg,Haas F1 Team,15,50,Finished,1.0,5
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,11,ALB,Alexander Albon,Williams,12,50,Finished,0.0,1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,12,MAG,Kevin Magnussen,Haas F1 Team,13,50,Finished,0.0,1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,13,OCO,Esteban Ocon,Alpine F1 Team,17,49,Lapped,0.0,4
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,14,SAR,Logan Sargeant,Williams,19,49,Lapped,0.0,5
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,15,TSU,Yuki Tsunoda,RB F1 Team,9,49,Lapped,0.0,-6
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,16,RIC,Daniel Ricciardo,RB F1 Team,14,49,Lapped,0.0,-2
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,17,BOT,Valtteri Bottas,Sauber,16,49,Lapped,0.0,-1
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,18,ZHO,Guanyu Zhou,Sauber,20,49,Lapped,0.0,2
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,19,STR,Lance Stroll,Aston Martin,10,5,Retired,0.0,-9
+2024,2,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,2024-03-09,20,GAS,Pierre Gasly,Alpine F1 Team,18,1,Retired,0.0,-2
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,1,SAI,Carlos Sainz,Ferrari,2,58,Finished,25.0,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,2,LEC,Charles Leclerc,Ferrari,4,58,Finished,19.0,2
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,3,NOR,Lando Norris,McLaren,3,58,Finished,15.0,0
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,4,PIA,Oscar Piastri,McLaren,5,58,Finished,12.0,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,5,PER,Sergio Pérez,Red Bull,6,58,Finished,10.0,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,6,STR,Lance Stroll,Aston Martin,9,58,Finished,8.0,3
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,7,TSU,Yuki Tsunoda,RB F1 Team,8,58,Finished,6.0,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,8,ALO,Fernando Alonso,Aston Martin,10,58,Finished,4.0,2
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,9,HUL,Nico Hülkenberg,Haas F1 Team,16,58,Finished,2.0,7
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,10,MAG,Kevin Magnussen,Haas F1 Team,14,57,Lapped,1.0,4
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,11,ALB,Alexander Albon,Williams,12,57,Lapped,0.0,1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,12,RIC,Daniel Ricciardo,RB F1 Team,18,57,Lapped,0.0,6
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,13,GAS,Pierre Gasly,Alpine F1 Team,17,57,Lapped,0.0,4
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,14,BOT,Valtteri Bottas,Sauber,13,57,Lapped,0.0,-1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,15,ZHO,Guanyu Zhou,Sauber,19,57,Lapped,0.0,4
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,16,OCO,Esteban Ocon,Alpine F1 Team,15,57,Lapped,0.0,-1
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,17,RUS,George Russell,Mercedes,7,56,Retired,0.0,-10
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,18,HAM,Lewis Hamilton,Mercedes,11,15,Retired,0.0,-7
+2024,3,Australian Grand Prix,Albert Park Grand Prix Circuit,2024-03-24,19,VER,Max Verstappen,Red Bull,1,3,Retired,0.0,-18
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,1,VER,Max Verstappen,Red Bull,1,53,Finished,26.0,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,2,PER,Sergio Pérez,Red Bull,2,53,Finished,18.0,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,3,SAI,Carlos Sainz,Ferrari,4,53,Finished,15.0,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,4,LEC,Charles Leclerc,Ferrari,8,53,Finished,12.0,4
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,5,NOR,Lando Norris,McLaren,3,53,Finished,10.0,-2
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,6,ALO,Fernando Alonso,Aston Martin,5,53,Finished,8.0,-1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,7,RUS,George Russell,Mercedes,9,53,Finished,6.0,2
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,8,PIA,Oscar Piastri,McLaren,6,53,Finished,4.0,-2
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,9,HAM,Lewis Hamilton,Mercedes,7,53,Finished,2.0,-2
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,10,TSU,Yuki Tsunoda,RB F1 Team,10,52,Lapped,1.0,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,11,HUL,Nico Hülkenberg,Haas F1 Team,12,52,Lapped,0.0,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,12,STR,Lance Stroll,Aston Martin,16,52,Lapped,0.0,4
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,13,MAG,Kevin Magnussen,Haas F1 Team,18,52,Lapped,0.0,5
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,14,BOT,Valtteri Bottas,Sauber,13,52,Lapped,0.0,-1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,15,OCO,Esteban Ocon,Alpine F1 Team,15,52,Lapped,0.0,0
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,16,GAS,Pierre Gasly,Alpine F1 Team,17,52,Lapped,0.0,1
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,17,SAR,Logan Sargeant,Williams,19,52,Lapped,0.0,2
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,18,ZHO,Guanyu Zhou,Sauber,20,12,Retired,0.0,2
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,19,RIC,Daniel Ricciardo,RB F1 Team,11,0,Retired,0.0,-8
+2024,4,Japanese Grand Prix,Suzuka Circuit,2024-04-07,20,ALB,Alexander Albon,Williams,14,0,Retired,0.0,-6
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,1,VER,Max Verstappen,Red Bull,1,56,Finished,25.0,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,2,NOR,Lando Norris,McLaren,4,56,Finished,18.0,2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,3,PER,Sergio Pérez,Red Bull,2,56,Finished,15.0,-1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,4,LEC,Charles Leclerc,Ferrari,6,56,Finished,12.0,2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,5,SAI,Carlos Sainz,Ferrari,7,56,Finished,10.0,2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,6,RUS,George Russell,Mercedes,8,56,Finished,8.0,2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,7,ALO,Fernando Alonso,Aston Martin,3,56,Finished,7.0,-4
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,8,PIA,Oscar Piastri,McLaren,5,56,Finished,4.0,-3
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,9,HAM,Lewis Hamilton,Mercedes,18,56,Finished,2.0,9
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,10,HUL,Nico Hülkenberg,Haas F1 Team,9,56,Finished,1.0,-1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,11,OCO,Esteban Ocon,Alpine F1 Team,13,56,Finished,0.0,2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,12,ALB,Alexander Albon,Williams,14,56,Finished,0.0,2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,13,GAS,Pierre Gasly,Alpine F1 Team,15,56,Finished,0.0,2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,14,ZHO,Guanyu Zhou,Sauber,16,56,Finished,0.0,2
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,15,STR,Lance Stroll,Aston Martin,11,56,Finished,0.0,-4
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,16,MAG,Kevin Magnussen,Haas F1 Team,17,56,Finished,0.0,1
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,17,SAR,Logan Sargeant,Williams,20,56,Finished,0.0,3
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,18,RIC,Daniel Ricciardo,RB F1 Team,12,33,Retired,0.0,-6
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,19,TSU,Yuki Tsunoda,RB F1 Team,19,26,Retired,0.0,0
+2024,5,Chinese Grand Prix,Shanghai International Circuit,2024-04-21,20,BOT,Valtteri Bottas,Sauber,10,19,Retired,0.0,-10
+2024,6,Miami Grand Prix,Miami International Autodrome,2024-05-05,1,NOR,Lando Norris,McLaren,5,57,Finished,25.0,4
