@@ -3,6 +3,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 import sys
+import sqlite3
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC_DIR = os.path.join(BASE_DIR, "src")
@@ -11,7 +12,20 @@ sys.path.append(SRC_DIR)
 
 from extract import get_race_results
 from transform import clean_race_results
+from load import save_to_sqlite
 
+def load_from_sqlite(season):
+    db_path = "C:/Users/Dilshani/Documents/F1_API_Project/data/f1_database.db"
+    table_name = f"f1_results_{season}"
+
+    conn = sqlite3.connect(db_path)
+
+    query = f"SELECT * FROM {table_name}"
+    df = pd.read_sql_query(query, conn)
+
+    conn.close()
+
+    return df
 
 st.title("F1 Race Results Dashboard")
 
@@ -24,17 +38,23 @@ season = st.selectbox(
 if st.button("Load Season Data"):
 
     df_raw = get_race_results(season)
-    df_clean = clean_race_results(df_raw)
+    df_cleaned = clean_race_results(df_raw)
 
     raw_path = f"C:/Users/Dilshani/Documents/F1_API_Project/data/raw/f1_results_{season}_raw.csv"
     processed_path = f"C:/Users/Dilshani/Documents/F1_API_Project/data/processed/f1_results_{season}_clean.csv"
 
     df_raw.to_csv(raw_path, index=False)
-    df_clean.to_csv(processed_path, index=False)
+    df_cleaned.to_csv(processed_path, index=False)
+
+    save_to_sqlite(df_cleaned, season)
+
+    df_clean = load_from_sqlite(season)
 
     st.success(f"{season} data loaded and saved successfully.")
 
     st.dataframe(df_clean)
+
+    
 
     # KPI cards
     total_races = df_clean["race_name"].nunique()
